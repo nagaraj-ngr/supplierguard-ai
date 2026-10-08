@@ -29,10 +29,20 @@ statement, architecture, evaluation plan and framework justification.
 None yet. No approach has been implemented or evaluated, so this repository reports no
 accuracy, faithfulness, cost or latency numbers. They will be added from real runs in step 8.
 
+## Prerequisites
+
+- **Python 3.10 or newer.** `pyproject.toml` sets `requires-python = ">=3.10"`, and
+  `pip install -e` refuses older versions. The macOS system `python3` is 3.9 and will not work.
+  Check with `python3 --version`. Install a newer one with `brew install python@3.12`, or with
+  [`uv`](https://docs.astral.sh/uv/) (`uv python install 3.12`).
+- **Git**, to clone the repository.
+- **An OpenAI API key**, optional. Steps 1 to 4 work without one.
+
 ## Quickstart
 
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python3.12 -m venv .venv && source .venv/bin/activate   # any Python >= 3.10
+python -m pip install --upgrade pip
 pip install -e ".[dev,faiss,pdf]"
 cp .env.example .env                 # add OPENAI_API_KEY once you have one
 python -m supplierguard.data_gen     # optional: regenerates ./data identically
@@ -41,6 +51,15 @@ pytest
 ```
 
 Steps 1 to 4 run without an API key. Without one, embeddings use an offline hash embedder.
+
+The data generator is deterministic for a given seed, so running it should leave `git status`
+clean. If it changes tracked files, the environment differs from the one that produced the data.
+
+### Verifying the setup
+
+1. The ingest command prints ranked chunks from `SUP-001` only. Personal details appear as
+   placeholders such as `[NAME_REDACTED]` and `[EMAIL_REDACTED]`.
+2. `pytest` reports all tests passing.
 
 ## What exists so far
 
