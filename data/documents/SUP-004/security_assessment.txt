@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Westmere Textiles (SUP-004)
+Assessment date: 2026-07-22
+Prepared by: Sofia Fischer
+Security Contact: Kenji Zhang (kenji.zhang@westmere-textiles.example, +91 80 4155 0254)
+
+Certifications
+SOC 2 Type II: Expired on 2026-03-24. Renewal audit not yet scheduled.
+ISO/IEC 27001: Certification lapsed. Re-certification pending.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2026-08, caused by phishing-driven credential theft.
+Multi-factor authentication coverage: 67%
+Open critical penetration-test findings: 5
+Mean time to patch critical vulnerabilities: 44 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

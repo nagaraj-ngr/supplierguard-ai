@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Brightline Chemicals (SUP-014)
+Assessment date: 2026-09-06
+Prepared by: Gustav Holloway
+Security Contact: Tomas Raman (tomas.raman@brightline-chemicals.example, +1-415-555-0174)
+
+Certifications
+SOC 2 Type II: Valid. Report dated 2026-06-08, expires 2027-06-03.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2028-01-19.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2024-11, caused by phishing-driven credential theft.
+Multi-factor authentication coverage: 86%
+Open critical penetration-test findings: 2
+Mean time to patch critical vulnerabilities: 21 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

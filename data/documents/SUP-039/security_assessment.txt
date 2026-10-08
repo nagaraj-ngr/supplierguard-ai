@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Meridian Electronics (SUP-039)
+Assessment date: 2026-07-19
+Prepared by: Marcus Dubois
+Security Contact: Mei Dubois (mei.dubois@meridian-electronics.example, (312) 555-0150)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-09-17). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-12-01.
+
+Security posture
+Confirmed security breaches (last 3 years): 2
+Most recent breach: 2024-11, caused by ransomware on a file server.
+Multi-factor authentication coverage: 73%
+Open critical penetration-test findings: 4
+Mean time to patch critical vulnerabilities: 31 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

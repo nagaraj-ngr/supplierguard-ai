@@ -1,0 +1,20 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Altair Plastics (SUP-028)
+Assessment date: 2026-07-26
+Prepared by: Beatriz Castillo
+Security Contact: Lucia Raman (lucia.raman@altair-plastics.example, (312) 555-0157)
+
+Certifications
+SOC 2 Type II: Valid. Report dated 2026-04-27, expires 2027-04-22.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-12-08.
+
+Security posture
+Confirmed security breaches (last 3 years): 0
+Multi-factor authentication coverage: 92%
+Open critical penetration-test findings: 1
+Mean time to patch critical vulnerabilities: 16 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

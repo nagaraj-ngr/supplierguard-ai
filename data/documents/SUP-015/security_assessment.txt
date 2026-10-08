@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Everpeak Industries (SUP-015)
+Assessment date: 2026-06-15
+Prepared by: Amara Castillo
+Security Contact: Hana Berg (hana.berg@everpeak-industries.example, (312) 555-0107)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-08-14). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-10-28.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2025-02, caused by misconfigured cloud storage.
+Multi-factor authentication coverage: 83%
+Open critical penetration-test findings: 2
+Mean time to patch critical vulnerabilities: 27 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

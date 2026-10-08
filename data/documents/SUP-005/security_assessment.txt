@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Ironwood Logistics (SUP-005)
+Assessment date: 2026-06-17
+Prepared by: Callum Petrova
+Security Contact: Elena Dubois (elena.dubois@ironwood-logistics.example, +1-312-555-0131)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-08-16). Renewal audit in progress.
+ISO/IEC 27001: Certification lapsed. Re-certification pending.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2025-07, caused by ransomware on a file server.
+Multi-factor authentication coverage: 67%
+Open critical penetration-test findings: 4
+Mean time to patch critical vulnerabilities: 37 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

@@ -1,0 +1,22 @@
+SUPPLY AND SERVICES AGREEMENT
+Supplier: Halcyon Textiles (SUP-002)
+Buyer: Harborline Manufacturing Group (the "Buyer")
+
+1. Parties and contacts
+Account Manager: Amara Almeida (amara.almeida@halcyon-textiles.example, +1-415-555-0160)
+Contract Signatory: Rafael Ahmed
+
+2. Term
+This agreement took effect on 2024-09-05 and runs for 48 months. It renews automatically for 12 months unless either party gives 90 days written notice.
+
+3. Service levels
+The Supplier commits to an on-time delivery rate of at least 96% measured monthly. Each month below the commitment earns the Buyer a service credit of 1% of that month's invoiced value. Defects above the agreed cap must be corrected at the Supplier's cost.
+
+4. Security and compliance requirements
+The Supplier shall hold a current SOC 2 Type II report and ISO/IEC 27001 certification, notify the Buyer of any security breach within 72 hours, and permit an audit of its controls once per year.
+
+5. Payment
+Payment terms are net 60 days.
+Account Name: Halcyon Textiles
+Account Number: 70734354471
+IBAN: GB13 LJYX 8790 2448 5434 44

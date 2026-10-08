@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Lumen Logistics (SUP-036)
+Assessment date: 2026-08-21
+Prepared by: Elena Rossi
+Security Contact: Ingrid Ahmed (ingrid.ahmed@lumen-logistics.example, +44 20 7946 0594)
+
+Certifications
+SOC 2 Type II: Not held. The Supplier has never completed a SOC 2 audit.
+ISO/IEC 27001: Not certified.
+
+Security posture
+Confirmed security breaches (last 3 years): 3
+Most recent breach: 2026-07, caused by phishing-driven credential theft.
+Multi-factor authentication coverage: 50%
+Open critical penetration-test findings: 6
+Mean time to patch critical vulnerabilities: 52 days
+Documented incident response plan: No
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found significant control weaknesses. Critical findings remain open and several expected certifications are missing.

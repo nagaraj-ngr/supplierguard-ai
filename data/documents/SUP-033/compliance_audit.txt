@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Redwood Textiles (SUP-033)
+Audit date: 2026-07-03
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Elena Larsen
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 4
+Open minor findings: 7
+Overdue corrective actions: 4
+Regulatory violations (last 24 months): 2
+
+Certifications and policies
+ISO 9001: Suspended pending corrective action
+ISO 14001: Not held
+Anti-bribery program: Gaps identified in policy and training records
+
+Auditor narrative
+Repeat findings were observed and several corrective actions are overdue. Management oversight of compliance is weak.

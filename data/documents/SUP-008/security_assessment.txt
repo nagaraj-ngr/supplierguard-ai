@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Xenon Logistics (SUP-008)
+Assessment date: 2026-06-04
+Prepared by: Beatriz Ahmed
+Security Contact: Jada Holloway (jada.holloway@xenon-logistics.example, +91 80 4155 0606)
+
+Certifications
+SOC 2 Type II: Expired on 2026-02-04. Renewal audit not yet scheduled.
+ISO/IEC 27001: Not certified.
+
+Security posture
+Confirmed security breaches (last 3 years): 3
+Most recent breach: 2025-08, caused by phishing-driven credential theft.
+Multi-factor authentication coverage: 58%
+Open critical penetration-test findings: 6
+Mean time to patch critical vulnerabilities: 42 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found significant control weaknesses. Critical findings remain open and several expected certifications are missing.

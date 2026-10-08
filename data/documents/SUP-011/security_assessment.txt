@@ -1,0 +1,20 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Redwood Chemicals (SUP-011)
+Assessment date: 2026-06-24
+Prepared by: Lucia Raman
+Security Contact: Dalia Brennan (dalia.brennan@redwood-chemicals.example, +1-415-555-0187)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-08-23). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-11-06.
+
+Security posture
+Confirmed security breaches (last 3 years): 0
+Multi-factor authentication coverage: 81%
+Open critical penetration-test findings: 2
+Mean time to patch critical vulnerabilities: 21 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

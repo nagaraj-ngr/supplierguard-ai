@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Umber Components (SUP-013)
+Assessment date: 2026-07-07
+Prepared by: Dalia Dubois
+Security Contact: Tomas Novak (tomas.novak@umber-components.example, +91 80 4155 0422)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-09-05). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-11-19.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2026-03, caused by ransomware on a file server.
+Multi-factor authentication coverage: 76%
+Open critical penetration-test findings: 4
+Mean time to patch critical vulnerabilities: 32 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

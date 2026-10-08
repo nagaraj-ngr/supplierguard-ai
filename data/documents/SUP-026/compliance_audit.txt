@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Xenon Plastics (SUP-026)
+Audit date: 2026-07-31
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Ivan Zhang
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Pass with observations
+Open major findings: 1
+Open minor findings: 3
+Overdue corrective actions: 0
+Regulatory violations (last 24 months): 1
+
+Certifications and policies
+ISO 9001: Valid
+ISO 14001: Valid
+Anti-bribery program: Policy in place and training current
+
+Auditor narrative
+Management responded promptly to prior findings and closed corrective actions on schedule.

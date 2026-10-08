@@ -1,0 +1,20 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Xenon Plastics (SUP-026)
+Assessment date: 2026-07-15
+Prepared by: Jonas Haddad
+Security Contact: Sofia Dubois (sofia.dubois@xenon-plastics.example, +44 20 7946 0404)
+
+Certifications
+SOC 2 Type II: Valid. Report dated 2026-04-16, expires 2027-04-11.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-11-27.
+
+Security posture
+Confirmed security breaches (last 3 years): 0
+Multi-factor authentication coverage: 100%
+Open critical penetration-test findings: 1
+Mean time to patch critical vulnerabilities: 9 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

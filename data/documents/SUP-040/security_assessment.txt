@@ -1,0 +1,20 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Juniper Industries (SUP-040)
+Assessment date: 2026-06-30
+Prepared by: Rafael Brennan
+Security Contact: Elena Tanaka (elena.tanaka@juniper-industries.example, +1-206-555-0101)
+
+Certifications
+SOC 2 Type II: Valid. Report dated 2026-04-01, expires 2027-03-27.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-11-12.
+
+Security posture
+Confirmed security breaches (last 3 years): 0
+Multi-factor authentication coverage: 100%
+Open critical penetration-test findings: 0
+Mean time to patch critical vulnerabilities: 7 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

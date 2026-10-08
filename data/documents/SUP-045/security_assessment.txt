@@ -1,0 +1,20 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Silverton Logistics (SUP-045)
+Assessment date: 2026-09-04
+Prepared by: Kenji Castillo
+Security Contact: Kofi Haddad (kofi.haddad@silverton-logistics.example, +1-312-555-0181)
+
+Certifications
+SOC 2 Type II: Valid. Report dated 2026-06-06, expires 2027-06-01.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2028-01-17.
+
+Security posture
+Confirmed security breaches (last 3 years): 0
+Multi-factor authentication coverage: 89%
+Open critical penetration-test findings: 2
+Mean time to patch critical vulnerabilities: 17 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

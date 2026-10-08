@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Fairhaven Electronics (SUP-048)
+Assessment date: 2026-08-27
+Prepared by: Sofia Brennan
+Security Contact: Kofi Berg (kofi.berg@fairhaven-electronics.example, +44 20 7946 0792)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-10-26). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2028-01-09.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2025-04, caused by misconfigured cloud storage.
+Multi-factor authentication coverage: 78%
+Open critical penetration-test findings: 2
+Mean time to patch critical vulnerabilities: 21 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

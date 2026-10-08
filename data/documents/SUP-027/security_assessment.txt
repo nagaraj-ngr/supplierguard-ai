@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Dunmore Packaging (SUP-027)
+Assessment date: 2026-06-04
+Prepared by: Lucia Fischer
+Security Contact: Farah Brennan (farah.brennan@dunmore-packaging.example, +44 20 7946 0459)
+
+Certifications
+SOC 2 Type II: Not held. The Supplier has never completed a SOC 2 audit.
+ISO/IEC 27001: Not certified.
+
+Security posture
+Confirmed security breaches (last 3 years): 3
+Most recent breach: 2025-12, caused by phishing-driven credential theft.
+Multi-factor authentication coverage: 50%
+Open critical penetration-test findings: 5
+Mean time to patch critical vulnerabilities: 51 days
+Documented incident response plan: No
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found significant control weaknesses. Critical findings remain open and several expected certifications are missing.

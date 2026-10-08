@@ -1,0 +1,22 @@
+SUPPLY AND SERVICES AGREEMENT
+Supplier: Ironwood Logistics (SUP-005)
+Buyer: Harborline Manufacturing Group (the "Buyer")
+
+1. Parties and contacts
+Account Manager: Rafael Brennan (rafael.brennan@ironwood-logistics.example, +44 20 7946 0259)
+Contract Signatory: Dalia Larsen
+
+2. Term
+This agreement took effect on 2023-08-06 and runs for 36 months. It renews automatically for 12 months unless either party gives 90 days written notice.
+
+3. Service levels
+The Supplier commits to an on-time delivery rate of at least 96% measured monthly. Each month below the commitment earns the Buyer a service credit of 1% of that month's invoiced value. Defects above the agreed cap must be corrected at the Supplier's cost.
+
+4. Security and compliance requirements
+The Supplier shall hold a current SOC 2 Type II report and ISO/IEC 27001 certification, notify the Buyer of any security breach within 72 hours, and permit an audit of its controls once per year.
+
+5. Payment
+Payment terms are net 45 days.
+Account Name: Ironwood Logistics
+Account Number: 7637489988
+IBAN: DE21 UTKC 2861 8234 4740 63

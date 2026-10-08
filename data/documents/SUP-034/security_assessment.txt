@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Orchard Textiles (SUP-034)
+Assessment date: 2026-07-15
+Prepared by: Elena Holloway
+Security Contact: Emil Fischer (emil.fischer@orchard-textiles.example, +44 20 7946 0821)
+
+Certifications
+SOC 2 Type II: Not held. The Supplier has never completed a SOC 2 audit.
+ISO/IEC 27001: Not certified.
+
+Security posture
+Confirmed security breaches (last 3 years): 3
+Most recent breach: 2025-02, caused by ransomware on a file server.
+Multi-factor authentication coverage: 53%
+Open critical penetration-test findings: 8
+Mean time to patch critical vulnerabilities: 64 days
+Documented incident response plan: No
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found significant control weaknesses. Critical findings remain open and several expected certifications are missing.

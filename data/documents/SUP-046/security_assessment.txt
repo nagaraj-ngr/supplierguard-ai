@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Everpeak Plastics (SUP-046)
+Assessment date: 2026-07-28
+Prepared by: Jada Fischer
+Security Contact: Mei Dubois (mei.dubois@everpeak-plastics.example, +91 80 4155 0527)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-09-26). Renewal audit in progress.
+ISO/IEC 27001: Certification lapsed. Re-certification pending.
+
+Security posture
+Confirmed security breaches (last 3 years): 2
+Most recent breach: 2024-12, caused by compromise of a third-party vendor.
+Multi-factor authentication coverage: 67%
+Open critical penetration-test findings: 5
+Mean time to patch critical vulnerabilities: 43 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

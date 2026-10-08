@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Fairhaven Electronics (SUP-048)
+Audit date: 2026-07-28
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Gustav Rossi
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 2
+Open minor findings: 6
+Overdue corrective actions: 3
+Regulatory violations (last 24 months): 1
+
+Certifications and policies
+ISO 9001: Valid
+ISO 14001: Valid
+Anti-bribery program: Policy in place and training current
+
+Auditor narrative
+Some corrective actions are behind schedule. Management has committed to a remediation plan.

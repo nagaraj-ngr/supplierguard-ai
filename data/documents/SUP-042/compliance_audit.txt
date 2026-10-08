@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Everpeak Metals (SUP-042)
+Audit date: 2026-03-20
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Ingrid Castillo
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 4
+Open minor findings: 9
+Overdue corrective actions: 4
+Regulatory violations (last 24 months): 3
+
+Certifications and policies
+ISO 9001: Suspended pending corrective action
+ISO 14001: Not held
+Anti-bribery program: Gaps identified in policy and training records
+
+Auditor narrative
+Repeat findings were observed and several corrective actions are overdue. Management oversight of compliance is weak.

@@ -1,0 +1,20 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Kestrel Industries (SUP-041)
+Assessment date: 2026-06-21
+Prepared by: Jada Saleh
+Security Contact: Gustav Castillo (gustav.castillo@kestrel-industries.example, +44 20 7946 0576)
+
+Certifications
+SOC 2 Type II: Valid. Report dated 2026-03-23, expires 2027-03-18.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-11-03.
+
+Security posture
+Confirmed security breaches (last 3 years): 0
+Multi-factor authentication coverage: 98%
+Open critical penetration-test findings: 0
+Mean time to patch critical vulnerabilities: 9 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a mature security program with timely patching and tested response procedures.

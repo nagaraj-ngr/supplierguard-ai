@@ -1,0 +1,502 @@
+[
+  {
+    "id": "SUP-001",
+    "name": "Quarry Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Turkey",
+    "region": "Europe",
+    "headquarters_city": "Pune",
+    "employees": 4858,
+    "founded": 1959
+  },
+  {
+    "id": "SUP-002",
+    "name": "Halcyon Textiles",
+    "industry": "Technical textiles",
+    "country": "Vietnam",
+    "region": "Asia",
+    "headquarters_city": "Leipzig",
+    "employees": 6672,
+    "founded": 1976
+  },
+  {
+    "id": "SUP-003",
+    "name": "Juniper Components",
+    "industry": "Electronic components",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Izmir",
+    "employees": 1674,
+    "founded": 1998
+  },
+  {
+    "id": "SUP-004",
+    "name": "Westmere Textiles",
+    "industry": "Technical textiles",
+    "country": "Poland",
+    "region": "Europe",
+    "headquarters_city": "Curitiba",
+    "employees": 5374,
+    "founded": 2010
+  },
+  {
+    "id": "SUP-005",
+    "name": "Ironwood Logistics",
+    "industry": "Freight and logistics",
+    "country": "United States",
+    "region": "North America",
+    "headquarters_city": "Leipzig",
+    "employees": 354,
+    "founded": 1980
+  },
+  {
+    "id": "SUP-006",
+    "name": "Umber Metals",
+    "industry": "Metal fabrication",
+    "country": "Canada",
+    "region": "North America",
+    "headquarters_city": "Windsor",
+    "employees": 4528,
+    "founded": 2009
+  },
+  {
+    "id": "SUP-007",
+    "name": "Cobalt Systems",
+    "industry": "Embedded systems",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Austin",
+    "employees": 2618,
+    "founded": 1996
+  },
+  {
+    "id": "SUP-008",
+    "name": "Xenon Logistics",
+    "industry": "Freight and logistics",
+    "country": "Vietnam",
+    "region": "Asia",
+    "headquarters_city": "Leipzig",
+    "employees": 5233,
+    "founded": 1983
+  },
+  {
+    "id": "SUP-009",
+    "name": "Granite Systems",
+    "industry": "Embedded systems",
+    "country": "Mexico",
+    "region": "North America",
+    "headquarters_city": "Leipzig",
+    "employees": 7394,
+    "founded": 1975
+  },
+  {
+    "id": "SUP-010",
+    "name": "Lumen Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Brazil",
+    "region": "South America",
+    "headquarters_city": "Pune",
+    "employees": 3138,
+    "founded": 1961
+  },
+  {
+    "id": "SUP-011",
+    "name": "Redwood Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Turkey",
+    "region": "Europe",
+    "headquarters_city": "Pune",
+    "employees": 2837,
+    "founded": 1956
+  },
+  {
+    "id": "SUP-012",
+    "name": "Brightline Systems",
+    "industry": "Embedded systems",
+    "country": "Brazil",
+    "region": "South America",
+    "headquarters_city": "Pune",
+    "employees": 3981,
+    "founded": 2002
+  },
+  {
+    "id": "SUP-013",
+    "name": "Umber Components",
+    "industry": "Electronic components",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Leipzig",
+    "employees": 5780,
+    "founded": 1989
+  },
+  {
+    "id": "SUP-014",
+    "name": "Brightline Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Hanoi",
+    "employees": 5243,
+    "founded": 1999
+  },
+  {
+    "id": "SUP-015",
+    "name": "Everpeak Industries",
+    "industry": "Industrial equipment",
+    "country": "Mexico",
+    "region": "North America",
+    "headquarters_city": "Rotterdam",
+    "employees": 8561,
+    "founded": 1982
+  },
+  {
+    "id": "SUP-016",
+    "name": "Ironwood Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Malaysia",
+    "region": "Asia",
+    "headquarters_city": "Windsor",
+    "employees": 7189,
+    "founded": 2000
+  },
+  {
+    "id": "SUP-017",
+    "name": "Yardley Logistics",
+    "industry": "Freight and logistics",
+    "country": "Brazil",
+    "region": "South America",
+    "headquarters_city": "Monterrey",
+    "employees": 616,
+    "founded": 1975
+  },
+  {
+    "id": "SUP-018",
+    "name": "Silverton Electronics",
+    "industry": "Electronics assembly",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Curitiba",
+    "employees": 3062,
+    "founded": 2009
+  },
+  {
+    "id": "SUP-019",
+    "name": "Lumen Packaging",
+    "industry": "Industrial packaging",
+    "country": "Mexico",
+    "region": "North America",
+    "headquarters_city": "Dayton",
+    "employees": 4504,
+    "founded": 2012
+  },
+  {
+    "id": "SUP-020",
+    "name": "Granite Plastics",
+    "industry": "Injection-molded plastics",
+    "country": "Turkey",
+    "region": "Europe",
+    "headquarters_city": "Austin",
+    "employees": 8592,
+    "founded": 2014
+  },
+  {
+    "id": "SUP-021",
+    "name": "Quarry Systems",
+    "industry": "Embedded systems",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Austin",
+    "employees": 8132,
+    "founded": 1975
+  },
+  {
+    "id": "SUP-022",
+    "name": "Tidewater Industries",
+    "industry": "Industrial equipment",
+    "country": "Vietnam",
+    "region": "Asia",
+    "headquarters_city": "Dayton",
+    "employees": 4250,
+    "founded": 1974
+  },
+  {
+    "id": "SUP-023",
+    "name": "Juniper Metals",
+    "industry": "Metal fabrication",
+    "country": "Brazil",
+    "region": "South America",
+    "headquarters_city": "Izmir",
+    "employees": 4755,
+    "founded": 1957
+  },
+  {
+    "id": "SUP-024",
+    "name": "Redwood Industries",
+    "industry": "Industrial equipment",
+    "country": "Malaysia",
+    "region": "Asia",
+    "headquarters_city": "Gdansk",
+    "employees": 5933,
+    "founded": 1996
+  },
+  {
+    "id": "SUP-025",
+    "name": "Westmere Electronics",
+    "industry": "Electronics assembly",
+    "country": "Poland",
+    "region": "Europe",
+    "headquarters_city": "Leipzig",
+    "employees": 8967,
+    "founded": 2003
+  },
+  {
+    "id": "SUP-026",
+    "name": "Xenon Plastics",
+    "industry": "Injection-molded plastics",
+    "country": "India",
+    "region": "Asia",
+    "headquarters_city": "Hanoi",
+    "employees": 2907,
+    "founded": 2010
+  },
+  {
+    "id": "SUP-027",
+    "name": "Dunmore Packaging",
+    "industry": "Industrial packaging",
+    "country": "United States",
+    "region": "North America",
+    "headquarters_city": "Penang",
+    "employees": 4378,
+    "founded": 1967
+  },
+  {
+    "id": "SUP-028",
+    "name": "Altair Plastics",
+    "industry": "Injection-molded plastics",
+    "country": "Turkey",
+    "region": "Europe",
+    "headquarters_city": "Windsor",
+    "employees": 791,
+    "founded": 1964
+  },
+  {
+    "id": "SUP-029",
+    "name": "Redwood Metals",
+    "industry": "Metal fabrication",
+    "country": "Malaysia",
+    "region": "Asia",
+    "headquarters_city": "Rotterdam",
+    "employees": 6758,
+    "founded": 1962
+  },
+  {
+    "id": "SUP-030",
+    "name": "Pinnacle Electronics",
+    "industry": "Electronics assembly",
+    "country": "India",
+    "region": "Asia",
+    "headquarters_city": "Penang",
+    "employees": 6477,
+    "founded": 2005
+  },
+  {
+    "id": "SUP-031",
+    "name": "Pinnacle Logistics",
+    "industry": "Freight and logistics",
+    "country": "Brazil",
+    "region": "South America",
+    "headquarters_city": "Leipzig",
+    "employees": 8272,
+    "founded": 2001
+  },
+  {
+    "id": "SUP-032",
+    "name": "Altair Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Windsor",
+    "employees": 5962,
+    "founded": 1972
+  },
+  {
+    "id": "SUP-033",
+    "name": "Redwood Textiles",
+    "industry": "Technical textiles",
+    "country": "United States",
+    "region": "North America",
+    "headquarters_city": "Austin",
+    "employees": 5501,
+    "founded": 1993
+  },
+  {
+    "id": "SUP-034",
+    "name": "Orchard Textiles",
+    "industry": "Technical textiles",
+    "country": "Mexico",
+    "region": "North America",
+    "headquarters_city": "Curitiba",
+    "employees": 329,
+    "founded": 2013
+  },
+  {
+    "id": "SUP-035",
+    "name": "Vantage Chemicals",
+    "industry": "Specialty chemicals",
+    "country": "Malaysia",
+    "region": "Asia",
+    "headquarters_city": "Curitiba",
+    "employees": 6942,
+    "founded": 1986
+  },
+  {
+    "id": "SUP-036",
+    "name": "Lumen Logistics",
+    "industry": "Freight and logistics",
+    "country": "Turkey",
+    "region": "Europe",
+    "headquarters_city": "Pune",
+    "employees": 2878,
+    "founded": 1967
+  },
+  {
+    "id": "SUP-037",
+    "name": "Quarry Packaging",
+    "industry": "Industrial packaging",
+    "country": "Canada",
+    "region": "North America",
+    "headquarters_city": "Windsor",
+    "employees": 727,
+    "founded": 1972
+  },
+  {
+    "id": "SUP-038",
+    "name": "Granite Industries",
+    "industry": "Industrial equipment",
+    "country": "India",
+    "region": "Asia",
+    "headquarters_city": "Rotterdam",
+    "employees": 4765,
+    "founded": 1991
+  },
+  {
+    "id": "SUP-039",
+    "name": "Meridian Electronics",
+    "industry": "Electronics assembly",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Austin",
+    "employees": 3744,
+    "founded": 1971
+  },
+  {
+    "id": "SUP-040",
+    "name": "Juniper Industries",
+    "industry": "Industrial equipment",
+    "country": "Poland",
+    "region": "Europe",
+    "headquarters_city": "Austin",
+    "employees": 1573,
+    "founded": 1995
+  },
+  {
+    "id": "SUP-041",
+    "name": "Kestrel Industries",
+    "industry": "Industrial equipment",
+    "country": "Mexico",
+    "region": "North America",
+    "headquarters_city": "Dayton",
+    "employees": 1016,
+    "founded": 1979
+  },
+  {
+    "id": "SUP-042",
+    "name": "Everpeak Metals",
+    "industry": "Metal fabrication",
+    "country": "Canada",
+    "region": "North America",
+    "headquarters_city": "Windsor",
+    "employees": 2352,
+    "founded": 1961
+  },
+  {
+    "id": "SUP-043",
+    "name": "Dunmore Logistics",
+    "industry": "Freight and logistics",
+    "country": "Turkey",
+    "region": "Europe",
+    "headquarters_city": "Curitiba",
+    "employees": 8573,
+    "founded": 2009
+  },
+  {
+    "id": "SUP-044",
+    "name": "Novara Systems",
+    "industry": "Embedded systems",
+    "country": "Mexico",
+    "region": "North America",
+    "headquarters_city": "Rotterdam",
+    "employees": 1675,
+    "founded": 1964
+  },
+  {
+    "id": "SUP-045",
+    "name": "Silverton Logistics",
+    "industry": "Freight and logistics",
+    "country": "Vietnam",
+    "region": "Asia",
+    "headquarters_city": "Austin",
+    "employees": 4051,
+    "founded": 2003
+  },
+  {
+    "id": "SUP-046",
+    "name": "Everpeak Plastics",
+    "industry": "Injection-molded plastics",
+    "country": "Canada",
+    "region": "North America",
+    "headquarters_city": "Gdansk",
+    "employees": 5342,
+    "founded": 1976
+  },
+  {
+    "id": "SUP-047",
+    "name": "Vantage Metals",
+    "industry": "Metal fabrication",
+    "country": "Malaysia",
+    "region": "Asia",
+    "headquarters_city": "Austin",
+    "employees": 978,
+    "founded": 1956
+  },
+  {
+    "id": "SUP-048",
+    "name": "Fairhaven Electronics",
+    "industry": "Electronics assembly",
+    "country": "Germany",
+    "region": "Europe",
+    "headquarters_city": "Leipzig",
+    "employees": 3752,
+    "founded": 1967
+  },
+  {
+    "id": "SUP-049",
+    "name": "Novara Electronics",
+    "industry": "Electronics assembly",
+    "country": "Vietnam",
+    "region": "Asia",
+    "headquarters_city": "Gdansk",
+    "employees": 2888,
+    "founded": 1969
+  },
+  {
+    "id": "SUP-050",
+    "name": "Silverton Components",
+    "industry": "Electronic components",
+    "country": "India",
+    "region": "Asia",
+    "headquarters_city": "Austin",
+    "employees": 1810,
+    "founded": 1973
+  }
+]

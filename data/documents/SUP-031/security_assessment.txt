@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Pinnacle Logistics (SUP-031)
+Assessment date: 2026-07-08
+Prepared by: Omar Petrova
+Security Contact: Omar Volkov (omar.volkov@pinnacle-logistics.example, +1-617-555-0163)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-09-06). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-11-20.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2025-08, caused by ransomware on a file server.
+Multi-factor authentication coverage: 72%
+Open critical penetration-test findings: 3
+Mean time to patch critical vulnerabilities: 24 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

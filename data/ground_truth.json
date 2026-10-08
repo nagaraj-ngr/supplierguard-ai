@@ -1,0 +1,737 @@
+{
+  "generator_version": "1.0",
+  "seed": 42,
+  "note": "Scores are the latent parameters the data was generated from. They are ground truth by construction, not human expert labels.",
+  "dimensions": [
+    "cybersecurity",
+    "financial",
+    "compliance_legal",
+    "news_reputation",
+    "delivery_quality",
+    "concentration"
+  ],
+  "golden_ids": [
+    "SUP-001",
+    "SUP-004",
+    "SUP-007",
+    "SUP-014",
+    "SUP-018",
+    "SUP-019",
+    "SUP-020",
+    "SUP-023",
+    "SUP-024",
+    "SUP-025",
+    "SUP-028",
+    "SUP-031",
+    "SUP-035",
+    "SUP-036",
+    "SUP-038",
+    "SUP-040",
+    "SUP-041",
+    "SUP-043",
+    "SUP-045",
+    "SUP-050"
+  ],
+  "suppliers": {
+    "SUP-001": {
+      "name": "Quarry Chemicals",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 7,
+        "financial": 10,
+        "compliance_legal": 8,
+        "news_reputation": 6,
+        "delivery_quality": 8,
+        "concentration": 9
+      },
+      "overall": 8.0,
+      "split": "golden"
+    },
+    "SUP-002": {
+      "name": "Halcyon Textiles",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 1,
+        "financial": 1,
+        "compliance_legal": 2,
+        "news_reputation": 1,
+        "delivery_quality": 1,
+        "concentration": 4
+      },
+      "overall": 1.7,
+      "split": "holdout"
+    },
+    "SUP-003": {
+      "name": "Juniper Components",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 1,
+        "financial": 3,
+        "compliance_legal": 3,
+        "news_reputation": 3,
+        "delivery_quality": 2,
+        "concentration": 2
+      },
+      "overall": 2.3,
+      "split": "holdout"
+    },
+    "SUP-004": {
+      "name": "Westmere Textiles",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 7,
+        "financial": 5,
+        "compliance_legal": 6,
+        "news_reputation": 5,
+        "delivery_quality": 5,
+        "concentration": 7
+      },
+      "overall": 5.8,
+      "split": "golden"
+    },
+    "SUP-005": {
+      "name": "Ironwood Logistics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 6,
+        "financial": 6,
+        "compliance_legal": 3,
+        "news_reputation": 5,
+        "delivery_quality": 6,
+        "concentration": 4
+      },
+      "overall": 5.0,
+      "split": "holdout"
+    },
+    "SUP-006": {
+      "name": "Umber Metals",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 1,
+        "financial": 1,
+        "compliance_legal": 2,
+        "news_reputation": 1,
+        "delivery_quality": 3,
+        "concentration": 2
+      },
+      "overall": 1.7,
+      "split": "holdout"
+    },
+    "SUP-007": {
+      "name": "Cobalt Systems",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 7,
+        "compliance_legal": 5,
+        "news_reputation": 6,
+        "delivery_quality": 6,
+        "concentration": 6
+      },
+      "overall": 5.7,
+      "split": "golden"
+    },
+    "SUP-008": {
+      "name": "Xenon Logistics",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 8,
+        "financial": 6,
+        "compliance_legal": 8,
+        "news_reputation": 8,
+        "delivery_quality": 8,
+        "concentration": 7
+      },
+      "overall": 7.5,
+      "split": "holdout"
+    },
+    "SUP-009": {
+      "name": "Granite Systems",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 4,
+        "compliance_legal": 1,
+        "news_reputation": 2,
+        "delivery_quality": 3,
+        "concentration": 4
+      },
+      "overall": 3.0,
+      "split": "holdout"
+    },
+    "SUP-010": {
+      "name": "Lumen Chemicals",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 5,
+        "financial": 4,
+        "compliance_legal": 3,
+        "news_reputation": 3,
+        "delivery_quality": 7,
+        "concentration": 4
+      },
+      "overall": 4.3,
+      "split": "holdout"
+    },
+    "SUP-011": {
+      "name": "Redwood Chemicals",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 6,
+        "compliance_legal": 5,
+        "news_reputation": 6,
+        "delivery_quality": 4,
+        "concentration": 5
+      },
+      "overall": 5.0,
+      "split": "holdout"
+    },
+    "SUP-012": {
+      "name": "Brightline Systems",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 2,
+        "financial": 1,
+        "compliance_legal": 1,
+        "news_reputation": 3,
+        "delivery_quality": 1,
+        "concentration": 3
+      },
+      "overall": 1.8,
+      "split": "holdout"
+    },
+    "SUP-013": {
+      "name": "Umber Components",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 5,
+        "financial": 4,
+        "compliance_legal": 7,
+        "news_reputation": 5,
+        "delivery_quality": 3,
+        "concentration": 6
+      },
+      "overall": 5.0,
+      "split": "holdout"
+    },
+    "SUP-014": {
+      "name": "Brightline Chemicals",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 3,
+        "financial": 4,
+        "compliance_legal": 2,
+        "news_reputation": 1,
+        "delivery_quality": 3,
+        "concentration": 3
+      },
+      "overall": 2.7,
+      "split": "golden"
+    },
+    "SUP-015": {
+      "name": "Everpeak Industries",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 4,
+        "compliance_legal": 5,
+        "news_reputation": 6,
+        "delivery_quality": 4,
+        "concentration": 5
+      },
+      "overall": 4.7,
+      "split": "holdout"
+    },
+    "SUP-016": {
+      "name": "Ironwood Chemicals",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 6,
+        "financial": 6,
+        "compliance_legal": 6,
+        "news_reputation": 5,
+        "delivery_quality": 6,
+        "concentration": 5
+      },
+      "overall": 5.7,
+      "split": "holdout"
+    },
+    "SUP-017": {
+      "name": "Yardley Logistics",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 8,
+        "financial": 10,
+        "compliance_legal": 6,
+        "news_reputation": 8,
+        "delivery_quality": 7,
+        "concentration": 7
+      },
+      "overall": 7.7,
+      "split": "holdout"
+    },
+    "SUP-018": {
+      "name": "Silverton Electronics",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 7,
+        "financial": 6,
+        "compliance_legal": 7,
+        "news_reputation": 8,
+        "delivery_quality": 9,
+        "concentration": 10
+      },
+      "overall": 7.8,
+      "split": "golden"
+    },
+    "SUP-019": {
+      "name": "Lumen Packaging",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 7,
+        "financial": 7,
+        "compliance_legal": 7,
+        "news_reputation": 9,
+        "delivery_quality": 9,
+        "concentration": 7
+      },
+      "overall": 7.7,
+      "split": "golden"
+    },
+    "SUP-020": {
+      "name": "Granite Plastics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 6,
+        "compliance_legal": 5,
+        "news_reputation": 5,
+        "delivery_quality": 3,
+        "concentration": 5
+      },
+      "overall": 4.7,
+      "split": "golden"
+    },
+    "SUP-021": {
+      "name": "Quarry Systems",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 6,
+        "financial": 3,
+        "compliance_legal": 7,
+        "news_reputation": 4,
+        "delivery_quality": 6,
+        "concentration": 7
+      },
+      "overall": 5.5,
+      "split": "holdout"
+    },
+    "SUP-022": {
+      "name": "Tidewater Industries",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 2,
+        "financial": 2,
+        "compliance_legal": 2,
+        "news_reputation": 1,
+        "delivery_quality": 2,
+        "concentration": 2
+      },
+      "overall": 1.8,
+      "split": "holdout"
+    },
+    "SUP-023": {
+      "name": "Juniper Metals",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 7,
+        "financial": 7,
+        "compliance_legal": 7,
+        "news_reputation": 9,
+        "delivery_quality": 10,
+        "concentration": 10
+      },
+      "overall": 8.3,
+      "split": "golden"
+    },
+    "SUP-024": {
+      "name": "Redwood Industries",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 8,
+        "financial": 7,
+        "compliance_legal": 10,
+        "news_reputation": 7,
+        "delivery_quality": 8,
+        "concentration": 9
+      },
+      "overall": 8.2,
+      "split": "golden"
+    },
+    "SUP-025": {
+      "name": "Westmere Electronics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 5,
+        "financial": 5,
+        "compliance_legal": 6,
+        "news_reputation": 4,
+        "delivery_quality": 4,
+        "concentration": 5
+      },
+      "overall": 4.8,
+      "split": "golden"
+    },
+    "SUP-026": {
+      "name": "Xenon Plastics",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 1,
+        "financial": 3,
+        "compliance_legal": 2,
+        "news_reputation": 2,
+        "delivery_quality": 3,
+        "concentration": 1
+      },
+      "overall": 2.0,
+      "split": "holdout"
+    },
+    "SUP-027": {
+      "name": "Dunmore Packaging",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 9,
+        "financial": 7,
+        "compliance_legal": 10,
+        "news_reputation": 6,
+        "delivery_quality": 10,
+        "concentration": 9
+      },
+      "overall": 8.5,
+      "split": "holdout"
+    },
+    "SUP-028": {
+      "name": "Altair Plastics",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 2,
+        "financial": 1,
+        "compliance_legal": 3,
+        "news_reputation": 4,
+        "delivery_quality": 1,
+        "concentration": 2
+      },
+      "overall": 2.2,
+      "split": "golden"
+    },
+    "SUP-029": {
+      "name": "Redwood Metals",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 2,
+        "financial": 1,
+        "compliance_legal": 4,
+        "news_reputation": 2,
+        "delivery_quality": 1,
+        "concentration": 2
+      },
+      "overall": 2.0,
+      "split": "holdout"
+    },
+    "SUP-030": {
+      "name": "Pinnacle Electronics",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 2,
+        "financial": 3,
+        "compliance_legal": 2,
+        "news_reputation": 1,
+        "delivery_quality": 3,
+        "concentration": 2
+      },
+      "overall": 2.2,
+      "split": "holdout"
+    },
+    "SUP-031": {
+      "name": "Pinnacle Logistics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 5,
+        "financial": 5,
+        "compliance_legal": 6,
+        "news_reputation": 5,
+        "delivery_quality": 6,
+        "concentration": 6
+      },
+      "overall": 5.5,
+      "split": "golden"
+    },
+    "SUP-032": {
+      "name": "Altair Chemicals",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 7,
+        "compliance_legal": 3,
+        "news_reputation": 6,
+        "delivery_quality": 5,
+        "concentration": 6
+      },
+      "overall": 5.2,
+      "split": "holdout"
+    },
+    "SUP-033": {
+      "name": "Redwood Textiles",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 8,
+        "financial": 8,
+        "compliance_legal": 8,
+        "news_reputation": 8,
+        "delivery_quality": 7,
+        "concentration": 9
+      },
+      "overall": 8.0,
+      "split": "holdout"
+    },
+    "SUP-034": {
+      "name": "Orchard Textiles",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 10,
+        "financial": 9,
+        "compliance_legal": 6,
+        "news_reputation": 6,
+        "delivery_quality": 7,
+        "concentration": 8
+      },
+      "overall": 7.7,
+      "split": "holdout"
+    },
+    "SUP-035": {
+      "name": "Vantage Chemicals",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 6,
+        "compliance_legal": 7,
+        "news_reputation": 6,
+        "delivery_quality": 4,
+        "concentration": 5
+      },
+      "overall": 5.3,
+      "split": "golden"
+    },
+    "SUP-036": {
+      "name": "Lumen Logistics",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 9,
+        "financial": 10,
+        "compliance_legal": 9,
+        "news_reputation": 8,
+        "delivery_quality": 10,
+        "concentration": 8
+      },
+      "overall": 9.0,
+      "split": "golden"
+    },
+    "SUP-037": {
+      "name": "Quarry Packaging",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 8,
+        "financial": 9,
+        "compliance_legal": 8,
+        "news_reputation": 8,
+        "delivery_quality": 6,
+        "concentration": 8
+      },
+      "overall": 7.8,
+      "split": "holdout"
+    },
+    "SUP-038": {
+      "name": "Granite Industries",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 2,
+        "financial": 1,
+        "compliance_legal": 3,
+        "news_reputation": 4,
+        "delivery_quality": 1,
+        "concentration": 2
+      },
+      "overall": 2.2,
+      "split": "golden"
+    },
+    "SUP-039": {
+      "name": "Meridian Electronics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 5,
+        "financial": 6,
+        "compliance_legal": 4,
+        "news_reputation": 5,
+        "delivery_quality": 6,
+        "concentration": 6
+      },
+      "overall": 5.3,
+      "split": "holdout"
+    },
+    "SUP-040": {
+      "name": "Juniper Industries",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 1,
+        "financial": 4,
+        "compliance_legal": 2,
+        "news_reputation": 3,
+        "delivery_quality": 3,
+        "concentration": 3
+      },
+      "overall": 2.7,
+      "split": "golden"
+    },
+    "SUP-041": {
+      "name": "Kestrel Industries",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 1,
+        "financial": 1,
+        "compliance_legal": 1,
+        "news_reputation": 1,
+        "delivery_quality": 4,
+        "concentration": 1
+      },
+      "overall": 1.5,
+      "split": "golden"
+    },
+    "SUP-042": {
+      "name": "Everpeak Metals",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 10,
+        "financial": 8,
+        "compliance_legal": 9,
+        "news_reputation": 10,
+        "delivery_quality": 8,
+        "concentration": 9
+      },
+      "overall": 9.0,
+      "split": "holdout"
+    },
+    "SUP-043": {
+      "name": "Dunmore Logistics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 5,
+        "compliance_legal": 7,
+        "news_reputation": 4,
+        "delivery_quality": 5,
+        "concentration": 4
+      },
+      "overall": 4.8,
+      "split": "golden"
+    },
+    "SUP-044": {
+      "name": "Novara Systems",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 6,
+        "financial": 4,
+        "compliance_legal": 7,
+        "news_reputation": 6,
+        "delivery_quality": 6,
+        "concentration": 4
+      },
+      "overall": 5.5,
+      "split": "holdout"
+    },
+    "SUP-045": {
+      "name": "Silverton Logistics",
+      "tier": "low",
+      "dimension_scores": {
+        "cybersecurity": 3,
+        "financial": 1,
+        "compliance_legal": 3,
+        "news_reputation": 1,
+        "delivery_quality": 2,
+        "concentration": 3
+      },
+      "overall": 2.2,
+      "split": "golden"
+    },
+    "SUP-046": {
+      "name": "Everpeak Plastics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 6,
+        "financial": 5,
+        "compliance_legal": 3,
+        "news_reputation": 6,
+        "delivery_quality": 3,
+        "concentration": 4
+      },
+      "overall": 4.5,
+      "split": "holdout"
+    },
+    "SUP-047": {
+      "name": "Vantage Metals",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 9,
+        "financial": 10,
+        "compliance_legal": 8,
+        "news_reputation": 6,
+        "delivery_quality": 7,
+        "concentration": 10
+      },
+      "overall": 8.3,
+      "split": "holdout"
+    },
+    "SUP-048": {
+      "name": "Fairhaven Electronics",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 4,
+        "financial": 5,
+        "compliance_legal": 6,
+        "news_reputation": 4,
+        "delivery_quality": 7,
+        "concentration": 5
+      },
+      "overall": 5.2,
+      "split": "holdout"
+    },
+    "SUP-049": {
+      "name": "Novara Electronics",
+      "tier": "high",
+      "dimension_scores": {
+        "cybersecurity": 10,
+        "financial": 10,
+        "compliance_legal": 10,
+        "news_reputation": 8,
+        "delivery_quality": 9,
+        "concentration": 8
+      },
+      "overall": 9.2,
+      "split": "holdout"
+    },
+    "SUP-050": {
+      "name": "Silverton Components",
+      "tier": "medium",
+      "dimension_scores": {
+        "cybersecurity": 5,
+        "financial": 5,
+        "compliance_legal": 5,
+        "news_reputation": 5,
+        "delivery_quality": 4,
+        "concentration": 6
+      },
+      "overall": 5.0,
+      "split": "golden"
+    }
+  }
+}

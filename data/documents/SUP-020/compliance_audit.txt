@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Granite Plastics (SUP-020)
+Audit date: 2026-08-02
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Ivan Fischer
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 2
+Open minor findings: 6
+Overdue corrective actions: 2
+Regulatory violations (last 24 months): 2
+
+Certifications and policies
+ISO 9001: Valid
+ISO 14001: Valid
+Anti-bribery program: Policy in place and training current
+
+Auditor narrative
+Some corrective actions are behind schedule. Management has committed to a remediation plan.

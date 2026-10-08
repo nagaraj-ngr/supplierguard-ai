@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Meridian Electronics (SUP-039)
+Audit date: 2026-08-20
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Kenji Kowalski
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 2
+Open minor findings: 5
+Overdue corrective actions: 1
+Regulatory violations (last 24 months): 2
+
+Certifications and policies
+ISO 9001: Valid
+ISO 14001: Valid
+Anti-bribery program: Policy in place and training current
+
+Auditor narrative
+Management responded promptly to prior findings and closed corrective actions on schedule.

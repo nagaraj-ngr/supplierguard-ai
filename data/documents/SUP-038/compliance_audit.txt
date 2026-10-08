@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Granite Industries (SUP-038)
+Audit date: 2025-12-03
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Ivan Rossi
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Pass with observations
+Open major findings: 1
+Open minor findings: 4
+Overdue corrective actions: 1
+Regulatory violations (last 24 months): 1
+
+Certifications and policies
+ISO 9001: Valid
+ISO 14001: Valid
+Anti-bribery program: Policy in place and training current
+
+Auditor narrative
+Management responded promptly to prior findings and closed corrective actions on schedule.

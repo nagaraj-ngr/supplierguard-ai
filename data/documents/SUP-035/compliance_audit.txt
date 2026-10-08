@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Vantage Chemicals (SUP-035)
+Audit date: 2026-03-15
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Hannah Kowalski
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 2
+Open minor findings: 7
+Overdue corrective actions: 2
+Regulatory violations (last 24 months): 2
+
+Certifications and policies
+ISO 9001: Suspended pending corrective action
+ISO 14001: Valid
+Anti-bribery program: Policy in place and training current
+
+Auditor narrative
+Some corrective actions are behind schedule. Management has committed to a remediation plan.

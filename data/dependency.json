@@ -1,0 +1,502 @@
+[
+  {
+    "supplier_id": "SUP-001",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 21.4,
+    "share_of_category_spend_pct": 66.1,
+    "share_of_total_spend_pct": 11.94,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 14.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-002",
+    "category": "Packaging",
+    "annual_spend_musd": 51.8,
+    "share_of_category_spend_pct": 37.7,
+    "share_of_total_spend_pct": 2.05,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 6.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-003",
+    "category": "Raw materials",
+    "annual_spend_musd": 24.7,
+    "share_of_category_spend_pct": 13.9,
+    "share_of_total_spend_pct": 0.91,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 2.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-004",
+    "category": "Logistics",
+    "annual_spend_musd": 28.7,
+    "share_of_category_spend_pct": 61.7,
+    "share_of_total_spend_pct": 3.15,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 11.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-005",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 16.2,
+    "share_of_category_spend_pct": 34.5,
+    "share_of_total_spend_pct": 3.58,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 6.3,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-006",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 23.9,
+    "share_of_category_spend_pct": 17.3,
+    "share_of_total_spend_pct": 2.92,
+    "qualified_alternative_suppliers": 5,
+    "estimated_switching_time_months": 3.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-007",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 30.0,
+    "share_of_category_spend_pct": 45.9,
+    "share_of_total_spend_pct": 5.41,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 9.3,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-008",
+    "category": "Raw materials",
+    "annual_spend_musd": 6.0,
+    "share_of_category_spend_pct": 58.1,
+    "share_of_total_spend_pct": 12.71,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 11.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-009",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 27.3,
+    "share_of_category_spend_pct": 34.9,
+    "share_of_total_spend_pct": 2.92,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 8.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-010",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 10.3,
+    "share_of_category_spend_pct": 34.6,
+    "share_of_total_spend_pct": 4.46,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 6.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-011",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 37.6,
+    "share_of_category_spend_pct": 40.6,
+    "share_of_total_spend_pct": 5.88,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 8.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-012",
+    "category": "Packaging",
+    "annual_spend_musd": 20.8,
+    "share_of_category_spend_pct": 22.9,
+    "share_of_total_spend_pct": 4.0,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 3.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-013",
+    "category": "Raw materials",
+    "annual_spend_musd": 18.8,
+    "share_of_category_spend_pct": 53.1,
+    "share_of_total_spend_pct": 5.5,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 10.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-014",
+    "category": "Packaging",
+    "annual_spend_musd": 49.6,
+    "share_of_category_spend_pct": 24.0,
+    "share_of_total_spend_pct": 3.48,
+    "qualified_alternative_suppliers": 5,
+    "estimated_switching_time_months": 4.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-015",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 57.6,
+    "share_of_category_spend_pct": 42.0,
+    "share_of_total_spend_pct": 8.75,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 8.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-016",
+    "category": "Logistics",
+    "annual_spend_musd": 57.7,
+    "share_of_category_spend_pct": 40.7,
+    "share_of_total_spend_pct": 2.05,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 7.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-017",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 32.1,
+    "share_of_category_spend_pct": 63.2,
+    "share_of_total_spend_pct": 2.66,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 11.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-018",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 9.2,
+    "share_of_category_spend_pct": 87.6,
+    "share_of_total_spend_pct": 17.76,
+    "qualified_alternative_suppliers": 0,
+    "estimated_switching_time_months": 16.8,
+    "single_source": true
+  },
+  {
+    "supplier_id": "SUP-019",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 50.6,
+    "share_of_category_spend_pct": 60.6,
+    "share_of_total_spend_pct": 9.24,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 12.1,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-020",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 9.2,
+    "share_of_category_spend_pct": 42.6,
+    "share_of_total_spend_pct": 9.23,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 8.3,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-021",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 2.4,
+    "share_of_category_spend_pct": 59.4,
+    "share_of_total_spend_pct": 9.5,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 11.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-022",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 58.0,
+    "share_of_category_spend_pct": 16.5,
+    "share_of_total_spend_pct": 2.66,
+    "qualified_alternative_suppliers": 5,
+    "estimated_switching_time_months": 3.7,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-023",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 56.1,
+    "share_of_category_spend_pct": 89.6,
+    "share_of_total_spend_pct": 8.6,
+    "qualified_alternative_suppliers": 0,
+    "estimated_switching_time_months": 17.3,
+    "single_source": true
+  },
+  {
+    "supplier_id": "SUP-024",
+    "category": "Logistics",
+    "annual_spend_musd": 11.0,
+    "share_of_category_spend_pct": 76.6,
+    "share_of_total_spend_pct": 14.97,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 14.4,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-025",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 53.9,
+    "share_of_category_spend_pct": 45.6,
+    "share_of_total_spend_pct": 6.7,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 8.3,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-026",
+    "category": "Raw materials",
+    "annual_spend_musd": 12.9,
+    "share_of_category_spend_pct": 9.7,
+    "share_of_total_spend_pct": 1.69,
+    "qualified_alternative_suppliers": 5,
+    "estimated_switching_time_months": 1.4,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-027",
+    "category": "Packaging",
+    "annual_spend_musd": 32.4,
+    "share_of_category_spend_pct": 75.5,
+    "share_of_total_spend_pct": 4.97,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 13.7,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-028",
+    "category": "Raw materials",
+    "annual_spend_musd": 41.8,
+    "share_of_category_spend_pct": 15.3,
+    "share_of_total_spend_pct": 2.43,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 3.9,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-029",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 53.5,
+    "share_of_category_spend_pct": 17.6,
+    "share_of_total_spend_pct": 2.54,
+    "qualified_alternative_suppliers": 5,
+    "estimated_switching_time_months": 2.6,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-030",
+    "category": "Logistics",
+    "annual_spend_musd": 49.7,
+    "share_of_category_spend_pct": 21.6,
+    "share_of_total_spend_pct": 2.51,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 1.2,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-031",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 55.9,
+    "share_of_category_spend_pct": 53.0,
+    "share_of_total_spend_pct": 10.21,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 9.1,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-032",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 32.4,
+    "share_of_category_spend_pct": 52.0,
+    "share_of_total_spend_pct": 4.78,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 10.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-033",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 10.7,
+    "share_of_category_spend_pct": 75.3,
+    "share_of_total_spend_pct": 3.67,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 15.1,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-034",
+    "category": "Raw materials",
+    "annual_spend_musd": 42.6,
+    "share_of_category_spend_pct": 73.2,
+    "share_of_total_spend_pct": 7.88,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 14.5,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-035",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 52.4,
+    "share_of_category_spend_pct": 44.9,
+    "share_of_total_spend_pct": 6.08,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 7.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-036",
+    "category": "Raw materials",
+    "annual_spend_musd": 40.5,
+    "share_of_category_spend_pct": 73.2,
+    "share_of_total_spend_pct": 8.48,
+    "qualified_alternative_suppliers": 2,
+    "estimated_switching_time_months": 12.6,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-037",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 49.3,
+    "share_of_category_spend_pct": 65.1,
+    "share_of_total_spend_pct": 2.67,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 13.7,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-038",
+    "category": "Packaging",
+    "annual_spend_musd": 19.1,
+    "share_of_category_spend_pct": 16.5,
+    "share_of_total_spend_pct": 3.28,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 3.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-039",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 16.4,
+    "share_of_category_spend_pct": 54.9,
+    "share_of_total_spend_pct": 9.28,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 10.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-040",
+    "category": "Packaging",
+    "annual_spend_musd": 17.6,
+    "share_of_category_spend_pct": 25.2,
+    "share_of_total_spend_pct": 1.34,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 4.4,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-041",
+    "category": "Packaging",
+    "annual_spend_musd": 26.8,
+    "share_of_category_spend_pct": 12.3,
+    "share_of_total_spend_pct": 1.97,
+    "qualified_alternative_suppliers": 5,
+    "estimated_switching_time_months": 1.6,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-042",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 15.4,
+    "share_of_category_spend_pct": 74.7,
+    "share_of_total_spend_pct": 5.99,
+    "qualified_alternative_suppliers": 0,
+    "estimated_switching_time_months": 15.1,
+    "single_source": true
+  },
+  {
+    "supplier_id": "SUP-043",
+    "category": "Packaging",
+    "annual_spend_musd": 31.7,
+    "share_of_category_spend_pct": 37.7,
+    "share_of_total_spend_pct": 7.71,
+    "qualified_alternative_suppliers": 4,
+    "estimated_switching_time_months": 6.0,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-044",
+    "category": "Packaging",
+    "annual_spend_musd": 24.5,
+    "share_of_category_spend_pct": 33.0,
+    "share_of_total_spend_pct": 6.29,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 6.8,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-045",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 25.4,
+    "share_of_category_spend_pct": 22.2,
+    "share_of_total_spend_pct": 1.01,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 4.5,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-046",
+    "category": "Packaging",
+    "annual_spend_musd": 23.7,
+    "share_of_category_spend_pct": 29.1,
+    "share_of_total_spend_pct": 4.99,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 4.9,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-047",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 56.0,
+    "share_of_category_spend_pct": 86.9,
+    "share_of_total_spend_pct": 14.33,
+    "qualified_alternative_suppliers": 0,
+    "estimated_switching_time_months": 16.0,
+    "single_source": true
+  },
+  {
+    "supplier_id": "SUP-048",
+    "category": "Contract manufacturing",
+    "annual_spend_musd": 28.1,
+    "share_of_category_spend_pct": 42.8,
+    "share_of_total_spend_pct": 2.47,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 7.1,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-049",
+    "category": "Logistics",
+    "annual_spend_musd": 51.2,
+    "share_of_category_spend_pct": 67.7,
+    "share_of_total_spend_pct": 13.65,
+    "qualified_alternative_suppliers": 1,
+    "estimated_switching_time_months": 13.1,
+    "single_source": false
+  },
+  {
+    "supplier_id": "SUP-050",
+    "category": "Sub-assemblies",
+    "annual_spend_musd": 41.1,
+    "share_of_category_spend_pct": 56.2,
+    "share_of_total_spend_pct": 6.17,
+    "qualified_alternative_suppliers": 3,
+    "estimated_switching_time_months": 8.8,
+    "single_source": false
+  }
+]

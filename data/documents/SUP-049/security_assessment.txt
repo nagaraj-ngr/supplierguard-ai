@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Novara Electronics (SUP-049)
+Assessment date: 2026-08-30
+Prepared by: Kofi Kowalski
+Security Contact: Lucia Saleh (lucia.saleh@novara-electronics.example, (415) 555-0197)
+
+Certifications
+SOC 2 Type II: Not held. The Supplier has never completed a SOC 2 audit.
+ISO/IEC 27001: Not certified.
+
+Security posture
+Confirmed security breaches (last 3 years): 3
+Most recent breach: 2026-07, caused by compromise of a third-party vendor.
+Multi-factor authentication coverage: 43%
+Open critical penetration-test findings: 7
+Mean time to patch critical vulnerabilities: 60 days
+Documented incident response plan: No
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found significant control weaknesses. Critical findings remain open and several expected certifications are missing.

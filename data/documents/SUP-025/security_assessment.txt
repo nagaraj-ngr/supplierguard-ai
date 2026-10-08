@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Westmere Electronics (SUP-025)
+Assessment date: 2026-08-06
+Prepared by: Priya Brennan
+Security Contact: Ingrid Larsen (ingrid.larsen@westmere-electronics.example, +44 20 7946 0758)
+
+Certifications
+SOC 2 Type II: Valid but expires within 90 days (2026-10-05). Renewal audit in progress.
+ISO/IEC 27001: Certified (ISO/IEC 27001:2022), valid until 2027-12-19.
+
+Security posture
+Confirmed security breaches (last 3 years): 1
+Most recent breach: 2025-02, caused by misconfigured cloud storage.
+Multi-factor authentication coverage: 73%
+Open critical penetration-test findings: 4
+Mean time to patch critical vulnerabilities: 29 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: Yes
+
+Assessor summary
+The assessor found a partly mature program. Several controls need improvement and remediation is under way.

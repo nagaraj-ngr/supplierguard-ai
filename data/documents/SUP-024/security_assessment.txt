@@ -1,0 +1,21 @@
+INFORMATION SECURITY ASSESSMENT
+Supplier: Redwood Industries (SUP-024)
+Assessment date: 2026-09-04
+Prepared by: Elena Ahmed
+Security Contact: Emil Volkov (emil.volkov@redwood-industries.example, +1-212-555-0146)
+
+Certifications
+SOC 2 Type II: Expired on 2026-05-07. Renewal audit not yet scheduled.
+ISO/IEC 27001: Not certified.
+
+Security posture
+Confirmed security breaches (last 3 years): 2
+Most recent breach: 2026-03, caused by misconfigured cloud storage.
+Multi-factor authentication coverage: 59%
+Open critical penetration-test findings: 5
+Mean time to patch critical vulnerabilities: 49 days
+Documented incident response plan: Yes
+Incident response plan tested within 12 months: No
+
+Assessor summary
+The assessor found significant control weaknesses. Critical findings remain open and several expected certifications are missing.

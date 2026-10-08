@@ -1,0 +1,21 @@
+COMPLIANCE AUDIT REPORT
+Supplier: Quarry Chemicals (SUP-001)
+Audit date: 2026-03-01
+Auditing body: Halverson Assurance Partners
+Lead Auditor: Callum Brennan
+Scope: quality management, labor practices, environmental controls, anti-bribery
+
+Findings
+Overall result: Fail
+Open major findings: 3
+Open minor findings: 8
+Overdue corrective actions: 3
+Regulatory violations (last 24 months): 2
+
+Certifications and policies
+ISO 9001: Suspended pending corrective action
+ISO 14001: Not held
+Anti-bribery program: Gaps identified in policy and training records
+
+Auditor narrative
+Repeat findings were observed and several corrective actions are overdue. Management oversight of compliance is weak.
