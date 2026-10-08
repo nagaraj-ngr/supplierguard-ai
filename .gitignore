@@ -12,6 +12,7 @@ dist/
 
 # Generated artifacts (rebuilt by `python -m supplierguard.ingest`)
 data/index/
+results/
 
 # OS / editor
 .DS_Store

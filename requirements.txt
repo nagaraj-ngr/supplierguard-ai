@@ -8,11 +8,10 @@ faiss-cpu>=1.8
 reportlab>=4.0      # only needed for `data_gen --pdf`
 pytest>=8.0
 
-# Added in later steps (uncomment when you reach them)
-# langgraph
-# langchain-openai
-# langchain-core
-# pydantic-ai
+# Agents and UI (steps 7 and 10)
+langgraph
+gradio
+
+# Evaluation extras (step 8, not yet wired in)
 # ragas
 # deepeval
-# gradio

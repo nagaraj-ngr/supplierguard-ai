@@ -19,7 +19,7 @@ dependencies = [
 [project.optional-dependencies]
 faiss = ["faiss-cpu>=1.8"]
 pdf = ["reportlab>=4.0"]
-agents = ["langgraph", "langchain-openai", "langchain-core", "pydantic-ai"]
+agents = ["langgraph"]
 eval = ["ragas", "deepeval"]
 ui = ["gradio"]
 dev = ["pytest>=8.0"]

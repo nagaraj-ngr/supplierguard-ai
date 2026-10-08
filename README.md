@@ -17,12 +17,12 @@ statement, architecture, evaluation plan and framework justification.
 | 2 | Deterministic synthetic data (50 suppliers) | done |
 | 3 | PII scrubbing, chunking, embeddings, vector store, retrieval | done |
 | 4 | Pydantic schemas, scoring, guardrails | done |
-| 5 | Approach 1: vanilla RAG | not started |
-| 6 | Approach 2: ReAct single agent | not started |
-| 7 | Approach 3: LangGraph multi-agent | not started |
-| 8 | Evaluation harness and comparison | not started |
-| 9 | Error-handling tests | not started |
-| 10 | Gradio UI, failure analysis | not started |
+| 5 | Approach 1: vanilla RAG | built, tested with a fake model; needs `OPENAI_API_KEY` to run |
+| 6 | Approach 2: ReAct single agent | built, tested with a fake model; needs `OPENAI_API_KEY` to run |
+| 7 | Approach 3: LangGraph multi-agent | built, tested with a fake model; needs `OPENAI_API_KEY` to run |
+| 8 | Evaluation harness and comparison | harness built; RAGAs and DeepEval not wired in yet |
+| 9 | Error-handling tests | done for no data, failing agent, step limit, adversarial input; contradictory-data handling not done |
+| 10 | Gradio UI | built; failure analysis not done |
 
 ## Results
 
@@ -54,6 +54,22 @@ Steps 1 to 4 run without an API key. Without one, embeddings use an offline hash
 
 The data generator is deterministic for a given seed, so running it should leave `git status`
 clean. If it changes tracked files, the environment differs from the one that produced the data.
+
+### Running an assessment
+
+The three approaches call an LLM, so they need `OPENAI_API_KEY` in `.env`. Without a key they
+stop with a clear message. Supplier names are matched loosely (typos are corrected), and input
+that looks like an instruction is rejected before any model call.
+
+```bash
+python -m supplierguard.assess --supplier "Quarry Chemicals" --approach multi   # or rag, react
+python -m supplierguard.assess --supplier "Quarry Chemicals" --approach react --json
+python -m supplierguard.evaluation --approach multi --limit 5   # scores against ground_truth.json
+python -m supplierguard.ui                                        # Gradio UI on http://127.0.0.1:7860
+```
+
+Evaluation writes `results/<approach>.json`. Those files are gitignored. Ground truth is read
+only by the evaluation step and never reaches an agent prompt.
 
 ### Verifying the setup
 
@@ -102,9 +118,13 @@ LLM call, and invalid model output is retried.
 
 ```
 src/supplierguard/
-  config.py  dimensions.py  scoring.py  schemas.py  guardrails.py
+  config.py  dimensions.py  scoring.py  schemas.py  guardrails.py  llm.py  sources.py
   data_gen/    synthetic data generator
   ingest/      pii, chunking, embeddings, vectorstore, pipeline, retriever
+  approaches/  rag.py (approach 1), react.py (approach 2), multi_agent.py (approach 3), common.py
+  service.py   wiring shared by the CLI, evaluation and UI
+  assess.py    CLI for one assessment       evaluation.py   golden-set scoring
+  ui.py        Gradio UI
 tests/         pytest suite
 data/          generated dataset (see data/README.md)
 docs/          design document
