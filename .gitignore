@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Generated artifacts (rebuilt by `python -m supplierguard.ingest`)
+data/index/
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.idea/
+.vscode/

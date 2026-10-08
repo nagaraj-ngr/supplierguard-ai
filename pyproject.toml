@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supplierguard-ai"
+version = "0.1.0"
+description = "Agentic supplier risk intelligence: vanilla RAG vs ReAct vs multi-agent comparison"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pydantic>=2.6",
+  "python-dotenv>=1.0",
+  "pypdf>=4.0",
+  "openai>=1.40",
+]
+
+[project.optional-dependencies]
+faiss = ["faiss-cpu>=1.8"]
+pdf = ["reportlab>=4.0"]
+agents = ["langgraph", "langchain-openai", "langchain-core", "pydantic-ai"]
+eval = ["ragas", "deepeval"]
+ui = ["gradio"]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
