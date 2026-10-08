@@ -43,7 +43,7 @@ accuracy, faithfulness, cost or latency numbers. They will be added from real ru
 ```bash
 python3.12 -m venv .venv && source .venv/bin/activate   # any Python >= 3.10
 python -m pip install --upgrade pip
-pip install -e ".[dev,faiss,pdf]"
+pip install -e ".[dev,faiss,pdf,agents,ui]"   # agents = LangGraph, ui = Gradio
 cp .env.example .env                 # add OPENAI_API_KEY once you have one
 python -m supplierguard.data_gen     # optional: regenerates ./data identically
 python -m supplierguard.ingest --query "SOC 2 certification expired" --supplier SUP-001
@@ -51,6 +51,10 @@ pytest
 ```
 
 Steps 1 to 4 run without an API key. Without one, embeddings use an offline hash embedder.
+
+If an existing `.venv` was created with Python 3.9, recreate it with a newer Python. On 3.9,
+`pip install -e` fails, so `supplierguard` is not importable (`No module named 'supplierguard'`),
+and pip resolves an old Gradio that breaks with current `huggingface_hub`.
 
 The data generator is deterministic for a given seed, so running it should leave `git status`
 clean. If it changes tracked files, the environment differs from the one that produced the data.
@@ -67,6 +71,9 @@ python -m supplierguard.assess --supplier "Quarry Chemicals" --approach react --
 python -m supplierguard.evaluation --approach multi --limit 5   # scores against ground_truth.json
 python -m supplierguard.ui                                        # Gradio UI on http://127.0.0.1:7860
 ```
+
+The UI opens without a key and shows the input form. Pressing **Assess supplier** without a key
+returns the "Could not assess" message instead of a scorecard.
 
 Evaluation writes `results/<approach>.json`. Those files are gitignored. Ground truth is read
 only by the evaluation step and never reaches an agent prompt.
